@@ -40,16 +40,16 @@ and also Team Handeling Exprience Having 2years
 - **[NEW Year Bass], [KOTAK MAHINDRA BANK LTD.]**
   - *Date Obtained:* [01/2024]
 
-# HOBBIES
+## HOBBIES
 
 -**PLAYING CRICKET**
 
-# PERMANENT ADDRESS
+## PERMANENT ADDRESS
 - Badajhada,Krushnaprasad,
  Puri, Odisha,
  Pin-752011
 
-# CURRENT ADDRESS
+## CURRENT ADDRESS
 -Plot No-A5-29,Lane-5,
 Indira housing Board colony
 lingipur,Old Town Bhubaneswar
