@@ -1,4 +1,4 @@
-# MAHENDRFA-KUMAR-SAHOO-RESUME
+# MAHENDRA-KUMAR-SAHOO-RESUME
 
 ![Profile Picture](link-to-profile-picture.jpg)
 
