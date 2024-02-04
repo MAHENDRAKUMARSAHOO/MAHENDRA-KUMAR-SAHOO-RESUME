@@ -1,6 +1,5 @@
 # MAHENDRFA-KUMAR-SAHOO-RESUME
 
-## Nitin Singh
 ![Profile Picture](link-to-profile-picture.jpg)
 
 ## Introduction
